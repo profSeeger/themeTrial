@@ -19,5 +19,5 @@ Use the buttons below to see the course  tasks, exercises, assignments, and fina
   <a href="/themeTrial/tasks/" class="btn btn--primary">View Tasks</a>
   <a href="/themeTrial/exercises/" class="btn btn--primary">View Exercises</a>
   <a href="/themeTrial/assignments/" class="btn btn--primary">View Assignments</a>
-  <a href="/seeger5880-2026/final-project/" class="btn btn--primary">View Final Project (error)</a>
+  <a href="/themeTrial/final-project/" class="btn btn--primary">View Final Project (error)</a>
 </div>
