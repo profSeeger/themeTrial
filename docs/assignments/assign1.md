@@ -16,7 +16,7 @@ markdown: false
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
     <param name='embed_code_version' value='3' /> 
     <param name='path' value='shared/74Y72DQ5Q' /> 
-    <param name='toolbar' value='yes' />
+    <param name='toolbar' value='no' />
     <param name='static_image' value='https://public.tableau.com/static/images/74/74Y72DQ5Q/1.png' /> 
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
