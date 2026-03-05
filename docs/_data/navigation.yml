@@ -29,6 +29,8 @@ sidebar:
         url: /tasks/7b-embed/
       - title: "7b-leaflet"
         url: /tasks/7b-leaflet/
+      - title: "7c demo here"
+        url: /tasks/7c-demo/
 
   - title: "Exercises"
     children:
