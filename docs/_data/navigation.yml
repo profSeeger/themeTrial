@@ -26,7 +26,7 @@ sidebar:
       - title: "3a Tableau Embed 3"
         url: /tasks/3a-tableau-embed3/
       - title: "7b-leaflet"
-        url: /task/7b-leaflet/
+        url: /tasks/7b-leaflet/
 
   - title: "Exercises"
     children:
