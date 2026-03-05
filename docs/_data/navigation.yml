@@ -25,6 +25,8 @@ sidebar:
         url: /tasks/3a-tableau-embed2/
       - title: "3a Tableau Embed 3"
         url: /tasks/3a-tableau-embed3/
+      - title: "7b-leaflet"
+        url: /task/7b-leaflet/
 
   - title: "Exercises"
     children:
@@ -34,8 +36,6 @@ sidebar:
         url: /exercises/3a/
       - title: "4a Tableau Filters, Relations & Geometry"
         url: /exercises/4a/
-      - title: "7b-leaflet"
-        url: /exercises/7b-leaflet/
 
   - title: "Assignments"
     children:
