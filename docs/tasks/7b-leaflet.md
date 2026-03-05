@@ -4,7 +4,7 @@ permalink: /tasks/7b-leaflet/
 markdown: false
 ---
 
-<!DOCTYPE html>
+<!DOCTYPE html> - delete this line
 <html lang="en">
 <head>
 	<base target="_top">
