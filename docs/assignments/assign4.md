@@ -4,7 +4,7 @@ permalink: /assignments/assign4/
 markdown: false
 ---
 
-Some text goes here above the map<br><br>
+Some text goes here above the map.<br><br>
 
 <iframe src="assign4_output.html" 
         width="100%" 
