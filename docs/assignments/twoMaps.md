@@ -1,0 +1,20 @@
+---
+title: "Assignment 4b"
+permalink: /assignments/assign4/
+markdown: false
+---
+
+Some text goes here above the map.<br><br>
+
+<iframe src="{{ '/assignments/assign4_output.html' | relative_url }}" 
+        width="45%" 
+        height="600px" 
+        style="border:none;">
+</iframe>
+
+
+<iframe src="https://profseeger.github.io/themeTrial/assignments/assign4_output.html" 
+        width="45%" 
+        height="600px" 
+        style="border:none;">
+</iframe>
