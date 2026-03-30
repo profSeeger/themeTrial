@@ -1,6 +1,6 @@
 ---
-title: "Assignment 4b"
-permalink: /assignments/assign4/
+title: "Two Maps"
+permalink: /assignments/twoMaps/
 markdown: false
 ---
 
